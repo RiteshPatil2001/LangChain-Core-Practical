@@ -124,11 +124,10 @@ In the **root folder** of the project (the same place as `requirements.txt`), cr
 ```env
 GROQ_API_KEY=your_groq_api_key_here
 HUGGINGFACEHUB_API_TOKEN=your_huggingface_token_here
-WEATHERSTACK_API_KEY=your_weatherstack_api_key_here
 ```
 
 > ⚠️ Replace each placeholder with your real key.
-> ⚠️ If the variable names in the code are different, use the same names that the code reads from the environment.
+> ⚠️ Add WEATHERSTACK_API_KEY in 'Agents\Custom_Agent.py' file in line no 15.
 > 🚫 **Never commit your `.env` file to GitHub.** Make sure `.env` is listed in your `.gitignore`.
 
 ---
