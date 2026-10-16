@@ -10,6 +10,7 @@ A hands-on practical demonstration of every core **LangChain** component. Each t
 - Each folder contains standalone `.py` files you can run individually
 - Uses **Groq** (fast LLM inference), **Hugging Face** (models/embeddings), and **WeatherStack** (live weather data for the weather agent)
 - A `files/` folder for your own **RAG** documents (PDF and TXT)
+- A **complete Theory documentation** in easy language with explanation
 
 ---
 
